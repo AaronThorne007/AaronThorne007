@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
 🎓I am a 3rd-year Undergraduate pursuing my Bachelor's in **Computer Science**.
-I am a tech enthusiast & Interested in **CyberSecurity**.
+- I am a tech enthusiast
+- Interested in **CyberSecurity**.
 I'm always looking to improve my skills.
 
 # 📋 Languages
