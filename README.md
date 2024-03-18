@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
-🎓I am a 3rd-year Undergraduate student pursuing my Bachelor's in **Computer Science**.
+🎓I am a 3rd-year Undergraduate pursuing my Bachelor's in **Computer Science**.
 I am a tech enthusiast & Interested in **CyberSecurity**
 always looking to up my skills
 
-# ⚡Skills
-- Learning:
-- !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+# 📋 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
