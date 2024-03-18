@@ -2,7 +2,7 @@
 ## 🗽 About Me
 🎓I am a 3rd-year Undergraduate pursuing my Bachelor's in **Computer Science**.
 - I am a tech enthusiast
-- Interested in **CyberSecurity**.
+- Interested in **CyberSecurity**
 
 # 📋 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
