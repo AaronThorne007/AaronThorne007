@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
-I am a Junior College Student (interested in **CyberSecurity**) pursuing my Bachelor's in **Computer Science**.
+I am a 3rd year undergrad Student pursuing my Bachelor's in **Computer Science**. I am a tech enthusiast & Interested in **CyberSecurity**
+
 
 
 <!--
