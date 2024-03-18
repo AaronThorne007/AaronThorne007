@@ -1,16 +1,19 @@
 # Hi there 👋, I'm Aaron!
+
 ## 🗽 About Me
 🎓I am a 3rd-year Undergraduate pursuing my Bachelor's in **Computer Science**.
 - ⚡️I am a tech enthusiast
 - 🔒Interested in **CyberSecurity**
 - 🧠Looking to learn and build my skills
 
-  [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronThorne007)](https://github.com/AaronThorne007/github-readme-stats)
+  [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronThorne007&theme=transparent)](https://github.com/AaronThorne007/github-readme-stats)
 
 # 📋 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronThorne007)](https://github.com/AaronThorne007/github-readme-stats)
 
 
 
