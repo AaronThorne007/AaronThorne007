@@ -1,6 +1,12 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
-I am a 3rd year undergrad Student pursuing my Bachelor's in **Computer Science**. I am a tech enthusiast & Interested in **CyberSecurity**
+🎓I am a 3rd-year Undergraduate student pursuing my Bachelor's in **Computer Science**.
+I am a tech enthusiast & Interested in **CyberSecurity**
+always looking to up my skills
+
+# ⚡Skills
+-Beginner
+[!\[my badge\](https://badgen.net/badge/hello/world/red?icon=java)](https://badgen.net/badge/icon/java?icon=java&label)
 
 
 
