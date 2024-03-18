@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
-I am Aaron Thorne. a Junior College Student (interested in CyberSecurity) pursuing my Bachelors in Computer Science.
+I am Aaron Thorne. a Junior College Student (interested in CyberSecurity) pursuing my Bachelor's in Computer Science.
 
 
 <!--
