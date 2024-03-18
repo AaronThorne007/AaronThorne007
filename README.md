@@ -1,4 +1,4 @@
-# [Hi there 👋, I'm Aaron]
+# Hi there 👋, I'm Aaron
 
 <!--
 **AaronThorne007/AaronThorne007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
