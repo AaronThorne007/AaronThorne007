@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aaron!
 ## 🗽 About Me
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<Aaron>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!--
 **AaronThorne007/AaronThorne007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
