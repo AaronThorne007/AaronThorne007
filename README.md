@@ -5,6 +5,8 @@
 - 🔒Interested in **CyberSecurity**
 - 🧠Looking to learn and build my skills
 
+  [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronThorne007)](https://github.com/AaronThorne007/github-readme-stats)
+
 # 📋 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
