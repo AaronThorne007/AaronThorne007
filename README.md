@@ -5,8 +5,9 @@ I am a tech enthusiast & Interested in **CyberSecurity**
 always looking to up my skills
 
 # ⚡Skills
--Beginner
-[!\[my badge\](https://badgen.net/badge/hello/world/red?icon=java)](https://badgen.net/badge/icon/java?icon=java&label)
+- Learning:
+- !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+
 
 
 
